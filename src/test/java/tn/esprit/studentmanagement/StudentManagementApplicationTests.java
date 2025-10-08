@@ -6,6 +6,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class StudentManagementApplicationTests {
 
-   
+    @Test
+    void contextLoads() {
+        throw new UnsupportedOperationException("Not implemented yet");
+
+    }
 
 }
